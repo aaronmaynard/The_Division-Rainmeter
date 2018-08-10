@@ -1,7 +1,7 @@
 # The_Division-Rainmeter
 A Rainmeter skin inspired by the UI of Tom Clancys the Division.  Requires [Rainmeter](https://www.rainmeter.net/ "Rainmeter") to be installed.
 
-[TOCM]
+[Download](https://github.com/aaronmaynard/The_Division-Rainmeter/releases "Latest Release")
 
 ## Features
 **Network Monitor**  
